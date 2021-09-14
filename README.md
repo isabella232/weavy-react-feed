@@ -1,4 +1,4 @@
-# Weavy React Actiity Feed App
+# Weavy React Activity Feed App
 ![React and Weavy](https://www.weavy.com/hs-fs/hubfs/react+weavy.jpg?width=2309&name=react+weavy.jpg)
 A demo project showcasing Weavy Activity Feed and Drop-In UI wrapped in a React component.
 
